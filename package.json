@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "vue": "^2.3.3",
+    "vue-template-compiler": "^2.3.3",
+    "webpack": "^2.6.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.2",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.5",
+    "vue-loader": "^12.1.0"
+  },
+  "name": "vue-demo-20170523",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+}
